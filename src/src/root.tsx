@@ -4,6 +4,7 @@ import {
   RouterOutlet,
   ServiceWorkerRegister,
 } from "@builder.io/qwik-city";
+import { ThemeProvider } from 'qwik-themes'
 import { RouterHead } from "./components/router-head/router-head";
 import { isDev } from "@builder.io/qwik/build";
 
@@ -29,8 +30,14 @@ export default component$(() => {
         )}
         <RouterHead />
       </head>
-      <body lang="en" data-color-scheme="light">
-        <RouterOutlet />
+      <body lang="en">
+        <ThemeProvider
+          storageKey="dailydose.theme"
+          attribute="data-color-scheme"
+          enableSystem={false}
+          >
+          <RouterOutlet />
+        </ThemeProvider>
         {!isDev && <ServiceWorkerRegister />}
       </body>
     </QwikCityProvider>
