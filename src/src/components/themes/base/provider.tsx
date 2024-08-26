@@ -73,19 +73,21 @@ export const ThemeProvider = component$<ThemeProviderProps>(
 		const resolvedThemeStore = useStore({
 			value: getTheme(storageKey),
 			setResolvedTheme: $(function (this: any, theme: string) {
-				this.value = theme
+				this.value = theme;
 			}),
 		})
 
 		const themeStore = useStore<UseThemeProps>({
 			setTheme: $(function (this: UseThemeProps, theme) {
-				themeSig.value = theme
+				themeSig.value = theme;
 
 				try {
 					localStorage.setItem(storageKey, Array.isArray(theme) ? theme.join(" ") : (theme as string))
 				} catch (e) {
 					// Unsupported
 				}
+
+				this.theme = theme;
 			}),
 			forcedTheme,
 			themes: enableSystem
