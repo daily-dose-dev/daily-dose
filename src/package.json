@@ -37,7 +37,6 @@
     "eslint": "8.57.0",
     "eslint-plugin-qwik": "^1.8.0",
     "prettier": "3.3.3",
-    "qwik-themes": "^0.3.0",
     "typescript": "5.4.5",
     "undici": "*",
     "vite": "5.3.5",
