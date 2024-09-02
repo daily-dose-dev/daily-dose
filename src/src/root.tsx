@@ -30,7 +30,7 @@ export default component$(() => {
         )}
         <RouterHead />
       </head>
-      <body lang="en">
+      <body lang="en" class="layout-simple">
         <ThemeProvider
           storageKey="dailydose.theme"
           attribute="data-color-scheme"
