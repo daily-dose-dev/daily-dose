@@ -33,15 +33,15 @@ export default component$(() => {
             </header>
             <h3 class="attention">.NET</h3>
             <dl>
-              <dt>
-                <a href="https://andrewlock.net/creating-source-only-nuget-packages/">Creating source-only NuGet packages</a>
+            <dt class="flex align-center">
+            <a href="https://andrewlock.net/creating-source-only-nuget-packages/">Creating source-only NuGet packages</a>
               </dt>
               <dd class="muted small">
                 <p>
                   The Ultimate Nginx Bad Bot, User-Agent, Spam Referrer Blocker, Adware, Malware and Ransomware Blocker, Clickjacking Blocker, Click Re-Directing Blocker, SEO Companies and Bad IP Blocker with Anti DDOS System, Nginx Rate Limiting and Wordpress Theme Detector Blocking. Stop and Block all kinds of bad internet traffic even Fake Googlebots from ever reaching your web sites. PLEASE SEE: Definition of Bad Bots
                 </p>
               </dd>
-              <dt>
+              <dt class="flex align-center">
                 <a href="https://ayende.com/blog/201537-A/legacy-code-with-really-good-tests-is-still-legacy-code">Legacy code with really good tests is still legacy code</a>
               </dt>
               <dd class="muted small">
@@ -52,15 +52,25 @@ export default component$(() => {
             </dl>
             <h3 class="attention">GitHub ❤️ OpenSource</h3>
             <dl>
-              <dt>
+              <dt class="flex align-center">
                 <a href="https://andrewlock.net/creating-source-only-nuget-packages/">Creating source-only NuGet packages</a>
+                <span class="smaller">
+                  <code class="p-.25 ml-.25 bd-default bg-default default">Video</code>
+                  <code class="p-.25 ml-.25 bd-variant bg-variant variant">Webinar</code>
+                  <code class="p-.25 ml-.25 bd-active bg-active active">Blog</code>
+                  <code class="p-.25 ml-.25 bd-accent bg-accent accent">Youtube</code>
+                  <code class="p-.25 ml-.25 bd-success bg-success success">LinkedIn</code>
+                  <code class="p-.25 ml-.25 bd-attention bg-attention attention">MVP</code>
+                  <code class="p-.25 ml-.25 bd-severe bg-severe severe">Code</code>
+                  <code class="p-.25 ml-.25 bd-danger bg-danger danger">GitHub</code>
+                </span>
               </dt>
               <dd class="muted small">
                 <p>
                   The Ultimate Nginx Bad Bot, User-Agent, Spam Referrer Blocker, Adware, Malware and Ransomware Blocker, Clickjacking Blocker, Click Re-Directing Blocker, SEO Companies and Bad IP Blocker with Anti DDOS System, Nginx Rate Limiting and Wordpress Theme Detector Blocking. Stop and Block all kinds of bad internet traffic even Fake Googlebots from ever reaching your web sites. PLEASE SEE: Definition of Bad Bots
                 </p>
               </dd>
-              <dt>
+              <dt class="flex align-center">
                 <a href="https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker">Nginx Bad Bot and User-Agent Blocker, Spam Referrer Blocker, Anti DDOS, Bad IP Blocker and Wordpress Theme Detector Blocker</a>
               </dt>
               <dd class="muted small">
@@ -81,16 +91,26 @@ export default component$(() => {
             </header>
             <h3 class="attention">.NET</h3>
             <dl>
-              <dt>
-                <a href="https://andrewlock.net/creating-source-only-nuget-packages/">Creating source-only NuGet packages</a>
+            <dt class="flex align-center">
+            <a href="https://andrewlock.net/creating-source-only-nuget-packages/">Creating source-only NuGet packages</a>
               </dt>
               <dd class="muted small">
                 <p>
                   The Ultimate Nginx Bad Bot, User-Agent, Spam Referrer Blocker, Adware, Malware and Ransomware Blocker, Clickjacking Blocker, Click Re-Directing Blocker, SEO Companies and Bad IP Blocker with Anti DDOS System, Nginx Rate Limiting and Wordpress Theme Detector Blocking. Stop and Block all kinds of bad internet traffic even Fake Googlebots from ever reaching your web sites. PLEASE SEE: Definition of Bad Bots
                 </p>
               </dd>
-              <dt>
+              <dt class="flex align-center">
                 <a href="https://ayende.com/blog/201537-A/legacy-code-with-really-good-tests-is-still-legacy-code">Legacy code with really good tests is still legacy code</a>
+                <span class="smaller">
+                  <code class="p-.25 ml-.25 bd-default bg-default default">Video</code>
+                  <code class="p-.25 ml-.25 bd-variant bg-variant variant">Webinar</code>
+                  <code class="p-.25 ml-.25 bd-active bg-active active">Blog</code>
+                  <code class="p-.25 ml-.25 bd-accent bg-accent accent">Youtube</code>
+                  <code class="p-.25 ml-.25 bd-success bg-success success">LinkedIn</code>
+                  <code class="p-.25 ml-.25 bd-attention bg-attention attention">MVP</code>
+                  <code class="p-.25 ml-.25 bd-severe bg-severe severe">Code</code>
+                  <code class="p-.25 ml-.25 bd-danger bg-danger danger">GitHub</code>
+                </span>
               </dt>
               <dd class="muted small">
                 <p>
@@ -100,16 +120,26 @@ export default component$(() => {
             </dl>
             <h3 class="attention">GitHub ❤️ OpenSource</h3>
             <dl>
-              <dt>
-                <a href="https://andrewlock.net/creating-source-only-nuget-packages/">Creating source-only NuGet packages</a>
+            <dt class="flex align-center">
+            <a href="https://andrewlock.net/creating-source-only-nuget-packages/">Creating source-only NuGet packages</a>
               </dt>
               <dd class="muted small">
                 <p>
                   The Ultimate Nginx Bad Bot, User-Agent, Spam Referrer Blocker, Adware, Malware and Ransomware Blocker, Clickjacking Blocker, Click Re-Directing Blocker, SEO Companies and Bad IP Blocker with Anti DDOS System, Nginx Rate Limiting and Wordpress Theme Detector Blocking. Stop and Block all kinds of bad internet traffic even Fake Googlebots from ever reaching your web sites. PLEASE SEE: Definition of Bad Bots
                 </p>
               </dd>
-              <dt>
+              <dt class="flex align-center">
                 <a href="https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker">Nginx Bad Bot and User-Agent Blocker, Spam Referrer Blocker, Anti DDOS, Bad IP Blocker and Wordpress Theme Detector Blocker</a>
+                <span class="smaller">
+                  <code class="p-.25 ml-.25 bd-default bg-default default">Video</code>
+                  <code class="p-.25 ml-.25 bd-variant bg-variant variant">Webinar</code>
+                  <code class="p-.25 ml-.25 bd-active bg-active active">Blog</code>
+                  <code class="p-.25 ml-.25 bd-accent bg-accent accent">Youtube</code>
+                  <code class="p-.25 ml-.25 bd-success bg-success success">LinkedIn</code>
+                  <code class="p-.25 ml-.25 bd-attention bg-attention attention">MVP</code>
+                  <code class="p-.25 ml-.25 bd-severe bg-severe severe">Code</code>
+                  <code class="p-.25 ml-.25 bd-danger bg-danger danger">GitHub</code>
+                </span>
               </dt>
               <dd class="muted small">
                 <p>
@@ -130,15 +160,15 @@ export default component$(() => {
             </header>
             <h3 class="attention">.NET</h3>
             <dl>
-              <dt>
-                <a href="https://andrewlock.net/creating-source-only-nuget-packages/">Creating source-only NuGet packages</a>
+            <dt class="flex align-center">
+            <a href="https://andrewlock.net/creating-source-only-nuget-packages/">Creating source-only NuGet packages</a>
               </dt>
               <dd class="muted small">
                 <p>
                   The Ultimate Nginx Bad Bot, User-Agent, Spam Referrer Blocker, Adware, Malware and Ransomware Blocker, Clickjacking Blocker, Click Re-Directing Blocker, SEO Companies and Bad IP Blocker with Anti DDOS System, Nginx Rate Limiting and Wordpress Theme Detector Blocking. Stop and Block all kinds of bad internet traffic even Fake Googlebots from ever reaching your web sites. PLEASE SEE: Definition of Bad Bots
                 </p>
               </dd>
-              <dt>
+              <dt class="flex align-center">
                 <a href="https://ayende.com/blog/201537-A/legacy-code-with-really-good-tests-is-still-legacy-code">Legacy code with really good tests is still legacy code</a>
               </dt>
               <dd class="muted small">
@@ -149,15 +179,15 @@ export default component$(() => {
             </dl>
             <h3 class="attention">GitHub ❤️ OpenSource</h3>
             <dl>
-              <dt>
-                <a href="https://andrewlock.net/creating-source-only-nuget-packages/">Creating source-only NuGet packages</a>
+            <dt class="flex align-center">
+            <a href="https://andrewlock.net/creating-source-only-nuget-packages/">Creating source-only NuGet packages</a>
               </dt>
               <dd class="muted small">
                 <p>
                   The Ultimate Nginx Bad Bot, User-Agent, Spam Referrer Blocker, Adware, Malware and Ransomware Blocker, Clickjacking Blocker, Click Re-Directing Blocker, SEO Companies and Bad IP Blocker with Anti DDOS System, Nginx Rate Limiting and Wordpress Theme Detector Blocking. Stop and Block all kinds of bad internet traffic even Fake Googlebots from ever reaching your web sites. PLEASE SEE: Definition of Bad Bots
                 </p>
               </dd>
-              <dt>
+              <dt class="flex align-center">
                 <a href="https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker">Nginx Bad Bot and User-Agent Blocker, Spam Referrer Blocker, Anti DDOS, Bad IP Blocker and Wordpress Theme Detector Blocker</a>
               </dt>
               <dd class="muted small">
